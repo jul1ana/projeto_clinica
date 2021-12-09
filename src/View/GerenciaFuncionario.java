@@ -9,6 +9,7 @@ import javax.swing.table.DefaultTableModel;
 public class GerenciaFuncionario extends javax.swing.JFrame {
     
     private FuncionarioControl controlador; 
+    // bebebebebe 
 
     public GerenciaFuncionario() {
         initComponents();
